@@ -52,6 +52,6 @@
 		"@vscode/l10n-dev": "^0.0.18"
 	},
 	"dependencies": {
-		"@vscode/l10n": "^0.0.10"
+		"@vscode/l10n": "^0.0.13"
 	}
 }
