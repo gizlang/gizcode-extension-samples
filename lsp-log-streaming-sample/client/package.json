@@ -2,7 +2,7 @@
   "author": "Microsoft Corporation",
   "dependencies": {
     "vscode-languageclient": "8.1.0",
-    "ws": "8.13.0"
+    "ws": "8.17.1"
   },
   "description": "VSCode part of a language server",
   "devDependencies": {
